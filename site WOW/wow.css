@@ -1,0 +1,163 @@
+ul{
+    display: flex;
+    flex-direction: row;
+   
+    color: white;
+    list-style-type: none;
+
+    height: 15px;
+    
+
+}
+
+ul a{
+    color: white;
+    
+}
+
+.icone{
+    padding-left: 30%;
+}
+
+
+nav img{
+    height: 100%;
+    margin-right: 2%;    
+}
+
+
+li{
+    margin-right: 2%;
+    color: white;
+}
+
+.Welcome{
+    background-image: url("Welcome.jpg");
+    padding: 4%;
+    height: 300px;
+    display: flex;
+}
+
+.Welcome img{
+    height: 100%;
+    width: 100%;
+}
+
+.MoltenCore{
+    background-image: url("molten.jpg");
+    padding: 5px;
+    height: 330px;
+    
+
+}
+
+.parag4{
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    height: 500px;
+    padding-bottom: 9%;
+    font-size: 0.9em;
+    
+
+
+}
+
+
+
+
+.parag4 img{
+    height: 100%;
+    margin-right: 4%;
+    
+}
+
+
+
+
+button{
+    background-color: rgb(0, 153, 255);
+    color:white;
+    border-color: aqua;
+    padding: 7%;
+    width: 150px;
+    margin-left: 405%;
+}
+
+.copyright{
+    background-image: url("copy.png");
+    height: 200px;
+    padding: 1%;
+
+    
+    
+}
+
+body{
+    background-color: #002650;
+    padding-left: 12%;
+    padding-right: 12%;  
+    margin: auto;
+    
+    overflow-x: hidden;
+
+  
+}
+
+from-label:nth-child(1){
+    
+    height: 48%;
+    width: 48%;
+    background-color: brown;
+    margin: 1%;
+    
+}
+
+from-label:nth-child(2){
+    
+    height: 48%;
+    width: 48%;
+    margin: 1%;
+    background-color: yellow
+}
+from-label:nth-child(3){
+    
+    height: 48%;
+    width: 48%;
+    background-color:purple;
+    margin: 1%;
+}
+from-label:nth-child(4){
+  
+    height: 48%;
+    width: 48%;
+    background-color: rgb(53, 53, 53);
+    margin: 1%;
+}
+
+.parag4 a{
+   font-display: flex;
+    text-align: end;
+}
+
+.flottant{
+    float:left;
+}
+
+
+footer{
+    color: white;
+    font-size: 60%
+}
+
+html{
+    height: 1700px;
+    width: 1800px;
+   
+}
+
+
+
+
